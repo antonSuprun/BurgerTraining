@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEF", "MEF\MEF.csproj", "{77A50AD9-2709-4110-895E-E2479D61C5BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedOperations", "ExtendedOperations\ExtendedOperations.csproj", "{D56C5FD3-F054-49A1-B611-BFF13A3BD8EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A50AD9-2709-4110-895E-E2479D61C5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A50AD9-2709-4110-895E-E2479D61C5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A50AD9-2709-4110-895E-E2479D61C5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A50AD9-2709-4110-895E-E2479D61C5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56C5FD3-F054-49A1-B611-BFF13A3BD8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56C5FD3-F054-49A1-B611-BFF13A3BD8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56C5FD3-F054-49A1-B611-BFF13A3BD8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56C5FD3-F054-49A1-B611-BFF13A3BD8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
