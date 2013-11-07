@@ -1,0 +1,25 @@
+body{
+	font-family: sans-serif;
+}
+p{
+	color: maroon;
+}
+p.greentea{
+	color: green;
+}
+p.blueberry{
+	color:purple;
+}
+p.raspberry{
+	color:blue;
+}
+h1, h2{
+	color: gray;
+}
+h1{
+	text-decoration: underline;
+}
+em{
+	font-family: serif;
+	color: black;
+}
