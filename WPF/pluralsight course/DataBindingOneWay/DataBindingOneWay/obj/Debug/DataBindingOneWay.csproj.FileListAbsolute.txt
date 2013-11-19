@@ -1,0 +1,13 @@
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingOneWay\DataBindingOneWay\bin\Debug\DataBindingOneWay.exe.config
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingOneWay\DataBindingOneWay\bin\Debug\DataBindingOneWay.exe
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingOneWay\DataBindingOneWay\bin\Debug\DataBindingOneWay.pdb
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingOneWay\DataBindingOneWay\obj\Debug\DataBindingOneWay.csprojResolveAssemblyReference.cache
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingOneWay\DataBindingOneWay\obj\Debug\MainWindow.baml
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingOneWay\DataBindingOneWay\obj\Debug\MainWindow.g.cs
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingOneWay\DataBindingOneWay\obj\Debug\App.g.cs
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingOneWay\DataBindingOneWay\obj\Debug\DataBindingOneWay_MarkupCompile.cache
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingOneWay\DataBindingOneWay\obj\Debug\DataBindingOneWay.g.resources
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingOneWay\DataBindingOneWay\obj\Debug\DataBindingOneWay.Properties.Resources.resources
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingOneWay\DataBindingOneWay\obj\Debug\DataBindingOneWay.csproj.GenerateResource.Cache
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingOneWay\DataBindingOneWay\obj\Debug\DataBindingOneWay.exe
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingOneWay\DataBindingOneWay\obj\Debug\DataBindingOneWay.pdb

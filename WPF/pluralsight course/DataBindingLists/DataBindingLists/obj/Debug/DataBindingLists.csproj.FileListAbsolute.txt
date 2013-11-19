@@ -1,0 +1,13 @@
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingLists\DataBindingLists\bin\Debug\DataBindingLists.exe.config
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingLists\DataBindingLists\bin\Debug\DataBindingLists.exe
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingLists\DataBindingLists\bin\Debug\DataBindingLists.pdb
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists.csprojResolveAssemblyReference.cache
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingLists\DataBindingLists\obj\Debug\MainWindow.baml
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingLists\DataBindingLists\obj\Debug\MainWindow.g.cs
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingLists\DataBindingLists\obj\Debug\App.g.cs
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists_MarkupCompile.cache
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists.g.resources
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists.Properties.Resources.resources
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists.csproj.GenerateResource.Cache
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists.exe
+D:\Study\BurgerTraining\WPF\pluralsight course\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists.pdb
