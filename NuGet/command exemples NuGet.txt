@@ -1,0 +1,5 @@
+nuget push TestLibrary.1.0.0.nupkg -s http://192.168.115.239/ 12345
+
+D:\Study\BurgerTraining\NuGet\Library\bin\Release>nuget pack Library.nuspec -o C:\Users\Burgev\Desktop
+
+nuget pack Library.csproj -IncludeReferencedProjects -Prop Configuration=Release  -Build
